@@ -2,11 +2,11 @@
 
 # Hi There
 
-## I am is Zulfikar Ditya
+## I am is a Noklent Fardian Erix
 
-![github stats](https://github-readme-stats.vercel.app/api?username=zulfikar-dityaa&show_icons=true)
+![github stats](https://github-readme-stats.vercel.app/api?username=Noklent&show_icons=true)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zulfikar-dityaa&theme=vue">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noklent&theme=vue">
 
 ### Get In Touch
 
