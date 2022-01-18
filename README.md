@@ -28,4 +28,6 @@
 <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="laravel" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="mysql" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg" alt="vscode" width="40" height="40"/>
+  <img src=https://www.vectorlogo.zone/logos/google_drive/google_drive-icon.svg alt="Gdrive" width="40" height="40"/>
+  
 </p>
