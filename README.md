@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-# Hi There
-
-## I am is a Noklent Fardian Erix
+## I am a Noklent Fardian Erix
+## I just ordinary Human with one mouth and two eye's
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=Noklent&show_icons=true)
 
