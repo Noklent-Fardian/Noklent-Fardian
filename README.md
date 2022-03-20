@@ -1,7 +1,5 @@
-### Hi there 👋
 
-## I am a Noklent Fardian Erix
-## I just ordinary Human with one mouth and two eye's
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Noklent+Fardian+Erix;+Welcome+to+My+Profile!;Im+just+ordinary+human;With+two+eyes;and+one+mouth+)](https://git.io/typing-svg)
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=Noklent&show_icons=true)
 
