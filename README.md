@@ -1,3 +1,7 @@
+<p align="center">
+    <img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=Noklent" alt="visitors"/>   
+</p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=ED7C00FF&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Noklent+Fardian+Erix;+Welcome+to+My+Profile!;Im+just+ordinary+human;With+two+eyes+👀;and+one+medium+mouth+👄+)](https://git.io/typing-svg)
 
