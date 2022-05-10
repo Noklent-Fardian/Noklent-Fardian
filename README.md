@@ -8,6 +8,8 @@
 ![Noklent's Github Stats](https://github-readme-stats.vercel.app/api?username=Noklent&show_icons=true)
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noklent&theme=vue">
+ <a href="http://www.github.com/Noklent"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Noklent&theme=vue" /></a> 
+
 
 ### Get In Touch
 
