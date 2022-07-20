@@ -7,7 +7,7 @@
 
 ![Noklent's Github Stats](https://github-readme-stats.vercel.app/api?username=Noklent-Fardian&show_icons=true)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noklent&theme=vue">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noklent-Fardian&theme=vue">
  <a href="http://www.github.com/Noklent-Fardian"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Noklent-Fardian&theme=vue" /></a> 
 
 
