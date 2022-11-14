@@ -11,7 +11,7 @@
  <a href="http://www.github.com/Noklent-Fardian"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Noklent-Fardian&theme=vue" /></a> 
 
 
-### Get In Touch
+### Get with in touch
 
 - > [instagram](https://www.instagram.com/noklent0/)
 
