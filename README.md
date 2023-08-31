@@ -5,10 +5,10 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=ED7C00FF&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Noklent+Fardian+Erix;+Welcome+to+My+Profile!;Im+just+ordinary+human;With+two+eyes+👀;and+one+medium+mouth+👄+)](https://git.io/typing-svg)
 
-![Noklent's Github Stats](https://github-readme-stats.vercel.app/api?username=Noklent-Fardian&show_icons=true)
+![Noklent's Github Stats](https://github-readme-stats.vercel.app/api?username=Noklent-Fardian&show_icons=true&theme=transparent)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noklent-Fardian&theme=vue">
- <a href="http://www.github.com/Noklent-Fardian"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Noklent-Fardian&theme=vue" /></a> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noklent-Fardian&theme=transparent">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Noklent-Fardian&theme=transparent"/>
 
 
 ### Get with in touch
@@ -28,8 +28,8 @@
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="laravel" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="mysql" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/google_play/google_play-ar21.svg" alt="playgame" width="40" height"40"/>
 <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg" alt="vscode" width="40" height="40"/>
-  <img src=https://www.vectorlogo.zone/logos/google_drive/google_drive-icon.svg alt="Gdrive" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/google_drive/google_drive-icon.svg" alt="Gdrive" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/google_play/google_play-icon.svg" alt="playgame" width="40" height"40"/>
   
 </p>
