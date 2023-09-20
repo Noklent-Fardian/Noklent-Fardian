@@ -31,5 +31,6 @@
 <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg" alt="vscode" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/google_drive/google_drive-icon.svg" alt="Gdrive" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/google_play/google_play-icon.svg" alt="playgame" width="40" height"40"/>
+<p align="center"> <img src="https://count.getloli.com/get/@:Noklent-Fardian&theme=rule34" alt=":visitors" /> </p>
   
 </p>
