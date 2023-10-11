@@ -5,8 +5,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=ED7C00FF&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Noklent+Fardian+Erix;+Welcome+to+My+Profile!;Im+just+ordinary+human;With+two+eyes+👀;and+one+medium+mouth+👄+)](https://git.io/typing-svg)
 
-![Noklent's Github Stats](https://github-readme-stats.vercel.app/api?username=Noklent-Fardian&show_icons=true&theme=transparent)
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Noklent-Fardian&theme=transparent](https://streak-stats.demolab.com?user=Noklent-Fardian&theme=transparent"/>
+![Noklent's Github Stats](https://github-readme-stats.vercel.app/api?username=Noklent-Fardian&show_icons=true&theme=transparent) <img src="https://github-readme-streak-stats.herokuapp.com/?user=Noklent-Fardian&theme=transparent](https://streak-stats.demolab.com?user=Noklent-Fardian&theme=transparent"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noklent-Fardian&theme=transparent"/>
 
