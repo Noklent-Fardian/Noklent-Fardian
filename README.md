@@ -2,8 +2,13 @@
     <img src="https://img.shields.io/badge/Condition-Was%20Pretty%20Stressed-critical"></a>
     <img src="https://visitor-badge.laobi.icu/badge?page_id=Noklent-Fardian" alt="visitors"/>   
 </p>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=ED7C00FF&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Noklent+Fardian+Erix;+Welcome+to+My+Profile!;Im+just+ordinary+human;With+two+eyes+👀;and+one+medium+mouth+👄+)](https://git.io/typing-svg)
+<img src="./assets/borderseparator.gif" width="100%"/>
+<div align="center">
+  <img src="./assets/animated-flame-01.gif" width="1.75%" align="left"/>
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=ED7C00FF&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Noklent+Fardian+Erix;+Welcome+to+My+Profile!;Im+just+ordinary+human;With+two+eyes+👀;and+one+medium+mouth+👄+)](https://git.io/typing-svg)
+  <img src="./assets/animated-flame-01.gif" width="1.75%" align="right"/>
+</div>
+<img src="./assets/borderseparator.gif" width="100%"/>
 | Stats                                                                                                                                        | Streak                                                                                                                         |
 | ---------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
 |![Noklent's Github Stats](https://github-readme-stats.vercel.app/api?username=Noklent-Fardian&show_icons=true&theme=transparent&align="left") |<img src="https://github-readme-streak-stats.herokuapp.com/?user=Noklent-Fardian&theme=transparent](https://streak-stats.demolab.com?user=Noklent-Fardian&theme=transparent"/>
