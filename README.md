@@ -33,3 +33,4 @@
 <p align="center"> <img src="https://count.getloli.com/get/@:Noklent-Fardian&theme=rule34" alt=":visitors" /> </p>
   
 [![An image of @noklent's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/noklent)](https://holopin.io/@noklent)
+<img src="./assets/animated-wave.svg" />
