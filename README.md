@@ -36,7 +36,6 @@
 <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="mysql" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg" alt="vscode" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/google_drive/google_drive-icon.svg" alt="Gdrive" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/google_play/google_play-icon.svg" alt="playgame" width="40" height"40"/>
 <p align="center"> <img src="https://count.getloli.com/get/@:Noklent-Fardian&theme=rule34" alt=":visitors" /> </p>
   
 [![An image of @noklent's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/noklent)](https://holopin.io/@noklent)
