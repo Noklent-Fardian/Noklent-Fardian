@@ -15,11 +15,8 @@
 | ---------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
 |![Noklent's Github Stats](https://github-readme-stats.vercel.app/api?username=Noklent-Fardian&show_icons=true&theme=transparent&align="left") |<img src="https://github-readme-streak-stats.herokuapp.com/?user=Noklent-Fardian&theme=transparent](https://streak-stats.demolab.com?user=Noklent-Fardian&theme=transparent"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noklent-Fardian&theme=transparent"/>
 
-### Get with in touch
 
-- > [instagram](https://www.instagram.com/noklent0/)
 
 ### language and tools
 
